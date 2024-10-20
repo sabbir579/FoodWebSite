@@ -1,0 +1,332 @@
+.myborder{
+    border: 1px solid red;
+}
+.mylines{
+    width: 80%;
+    margin-inline: auto;
+}
+
+
+
+.sec1{
+   background: url(./img/dietary-menu-healthy-vegan-salad-vegetables-broccoli-mushrooms-spinach-quinoa-bowl-flat-lay-top-view.jpg);
+   background-position: center;
+    height: 780px;
+    width: 100%;
+}
+
+.secmother{
+ padding-top: 80px;
+ margin-left: 160px;
+    
+  
+}
+.secbox1{
+    height: 220px;
+    width: 220px;
+   background-color: #99E54D;
+   border-radius: 50%;
+   }
+   .btoon{
+    height: 50px;
+    width: 150px;
+    background-color:#F1AE0E ;
+    border-radius: 25px;
+    border: 0;
+    display: block;
+    color: white;
+    font-weight: 600;
+    margin-top: 30px;
+
+   }
+
+   .btoon:hover{
+    background-color: antiquewhite;
+    color: black;
+   }
+   .sec2{
+    width: 100%;
+    background-color:#1A1A1A ;
+  
+   }
+   .mother{
+    display: flex;
+   padding-top: 60px;
+   padding-bottom: 30px;
+   }
+   .box1{
+    background: url(./img/dietary-menu-healthy-vegan-salad-vegetables-broccoli-mushrooms-spinach-quinoa-bowl-flat-lay-top-view.jpg);
+    background-size: cover;
+    height: 340px;
+    width: 400px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   }
+   .box2{
+    background: url(./img/pexels-photo-3850972.jpeg);
+    background-size: cover;
+    height: 340px;
+    width: 400px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+   }
+   .box3{
+    background: url(./img/italian-spaghetti-with-tomato-sauce-pan.jpg);
+    background-size: cover;
+    height: 340px;
+    width: 400px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+.sekmother{
+    display: flex;
+    gap: 20px;
+    padding-top: 150px;
+}
+   .right{
+    background: url(./img/juicy-steak-medium-rare-beef-with-spices-grilled-vegetables.jpg);
+    background-size: cover;
+    height: 580px;
+    width: 600px;
+    border-radius: 40px;
+   }
+
+   .pmother{
+    display: flex;
+    gap: 15px;
+   margin-top: 150px;
+   }
+   .tav{
+    background: url(./img/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg);
+    background-position: center;
+    background-size: 600px;
+    height: 350px;
+    width: 400px;
+    border-radius: 30px;
+   }
+   .tav2{
+    background: url(./img/pexels-photo-3662126.jpeg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    height: 350px;
+    width: 400px;
+   }
+   .tav3{
+    background: url(./img/pexels-photo-3939685.jpeg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    height: 350px;
+    width: 400px;
+   }
+   .father{
+    display: flex;
+    gap: 40px;
+    margin-top: 150px;
+   }
+   .childleft{
+    height: 480px;
+    width: 500px;
+    background: url(./img/pexels-photo-3681641.jpeg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 40px;
+   }
+.lettermother{
+   display: flex;
+   justify-content: center;
+   padding-top: 50px;
+}
+   .pic1{
+    height: 450px;
+    width: 500px;
+    background: url(./img/delicious-pizza-isolated-white.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+   }
+   .bnt{
+    height: 55px;
+    width: 160px;
+    border: 0;
+    border-radius: 30px;
+    background-color: #99E54D;
+    margin-top: 30px;
+    margin-left: 170px;
+  
+   }
+   .bnt:hover{
+    background-color: #80ff00;
+   }
+   .pic2{
+    height: 450px;
+    width: 500px;
+    background: url(./img/high-angle-shot-vegetable-salad-white-bowl.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+   }
+.bmother{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+   .bg1{
+    height: 450px;
+    width: 500px;
+    background: url(./img/pexels-photo-3681641.jpeg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+   }
+
+   .textmother{
+    display: flex;
+    margin-top: 150px;
+   
+   }
+   .bg2{
+    height: 450px;
+    width: 500px;
+    background: url(./img/1.jpeg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+   
+   }
+
+   .picright{
+    background: url(./img/2\ \(2\).jpg);
+    background-position: center;
+    background-size: cover;
+    height: 580px;
+    width: 600px;
+    border-radius: 40px;
+    margin-bottom: 70px;
+   }
+   .lastsec{
+    height: 750px;
+    background: url(./img/3\ \(2\).jpg);
+    background-position: center;
+    padding-top: 120px;
+    padding-left: 150px;
+
+   }
+   .vox{
+    height: 220px;
+    width: 220px;
+   background-color: #99E54D;
+   border-radius: 50%;
+   }
+    .ma{
+      display: flex; 
+      gap: 30px;
+      margin-top: 30px;
+    }
+   input{
+    height: 55px;
+    width: 500px;
+    border-radius: 20px;
+    padding: 20px;
+    border: 0;
+   }
+   .btnt{
+    height: 50px;
+    width: 130px;
+    border-radius: 30px;
+    border: 0px;
+    background-color: #9fe05e;
+   }
+   .btnt:hover{
+    background-color: #80ff00;
+   }
+   .bodys{
+    background-color: #1A1A1A;
+   }
+   .mom{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+   padding-top: 100px;
+
+   
+   }
+   .boox1{
+    height: 300px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+   
+   }
+   .boox2{
+    height: 350px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   margin-bottom: 50px;
+   }
+   
+   .boox3{
+    height: 300px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
+
+   .icone1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 60px;
+    background-color: #80ff00;
+    border-radius: 50%;
+    font-size: 30px;
+   }
+   .icone2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 60px;
+    background-color: #80ff00;
+    border-radius: 50%;
+    font-size: 30px;
+   }
+
+   .icone3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 60px;
+    background-color: #80ff00;
+    border-radius: 50%;
+    font-size: 30px;
+   }
+
+   footer{
+    height: 250px;
+    width: 100%;
+    background-color: rgb(69, 67, 67);
+    padding-top: 50px;
+    text-align: center;
+    line-height: 150px;
+    color: white;
+   }
